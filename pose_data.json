@@ -1,0 +1,1436 @@
+{
+  "Ardh Uttanasana": {
+    "left_shoulder": [
+      0.4,
+      0.3
+    ],
+    "right_shoulder": [
+      0.6,
+      0.3
+    ],
+    "left_elbow": [
+      0.4,
+      0.45
+    ],
+    "right_elbow": [
+      0.6,
+      0.45
+    ],
+    "left_wrist": [
+      0.4,
+      0.6
+    ],
+    "right_wrist": [
+      0.6,
+      0.6
+    ],
+    "left_hip": [
+      0.4,
+      0.7
+    ],
+    "right_hip": [
+      0.6,
+      0.7
+    ],
+    "left_knee": [
+      0.4,
+      0.85
+    ],
+    "right_knee": [
+      0.6,
+      0.85
+    ],
+    "left_ankle": [
+      0.4,
+      1.0
+    ],
+    "right_ankle": [
+      0.6,
+      1.0
+    ]
+  },
+  "Baddha Konasana": {
+    "left_shoulder": [
+      0.4,
+      0.4
+    ],
+    "right_shoulder": [
+      0.6,
+      0.4
+    ],
+    "left_elbow": [
+      0.35,
+      0.5
+    ],
+    "right_elbow": [
+      0.65,
+      0.5
+    ],
+    "left_wrist": [
+      0.3,
+      0.6
+    ],
+    "right_wrist": [
+      0.7,
+      0.6
+    ],
+    "left_hip": [
+      0.45,
+      0.7
+    ],
+    "right_hip": [
+      0.55,
+      0.7
+    ],
+    "left_knee": [
+      0.35,
+      0.85
+    ],
+    "right_knee": [
+      0.65,
+      0.85
+    ],
+    "left_ankle": [
+      0.4,
+      0.95
+    ],
+    "right_ankle": [
+      0.6,
+      0.95
+    ]
+  },
+  "Malasana": {
+    "left_shoulder": [
+      0.4,
+      0.35
+    ],
+    "right_shoulder": [
+      0.6,
+      0.35
+    ],
+    "left_elbow": [
+      0.38,
+      0.45
+    ],
+    "right_elbow": [
+      0.62,
+      0.45
+    ],
+    "left_wrist": [
+      0.36,
+      0.55
+    ],
+    "right_wrist": [
+      0.64,
+      0.55
+    ],
+    "left_hip": [
+      0.45,
+      0.7
+    ],
+    "right_hip": [
+      0.55,
+      0.7
+    ],
+    "left_knee": [
+      0.4,
+      0.85
+    ],
+    "right_knee": [
+      0.6,
+      0.85
+    ],
+    "left_ankle": [
+      0.4,
+      1.0
+    ],
+    "right_ankle": [
+      0.6,
+      1.0
+    ]
+  },
+  "Tadasana": {
+    "left_shoulder": [
+      0.4,
+      0.3
+    ],
+    "right_shoulder": [
+      0.6,
+      0.3
+    ],
+    "left_elbow": [
+      0.4,
+      0.4
+    ],
+    "right_elbow": [
+      0.6,
+      0.4
+    ],
+    "left_wrist": [
+      0.4,
+      0.5
+    ],
+    "right_wrist": [
+      0.6,
+      0.5
+    ],
+    "left_hip": [
+      0.4,
+      0.6
+    ],
+    "right_hip": [
+      0.6,
+      0.6
+    ],
+    "left_knee": [
+      0.4,
+      0.8
+    ],
+    "right_knee": [
+      0.6,
+      0.8
+    ],
+    "left_ankle": [
+      0.4,
+      1.0
+    ],
+    "right_ankle": [
+      0.6,
+      1.0
+    ]
+  },
+  "Urdhva Hastasana": {
+    "left_shoulder": [
+      0.4,
+      0.25
+    ],
+    "right_shoulder": [
+      0.6,
+      0.25
+    ],
+    "left_elbow": [
+      0.4,
+      0.2
+    ],
+    "right_elbow": [
+      0.6,
+      0.2
+    ],
+    "left_wrist": [
+      0.4,
+      0.1
+    ],
+    "right_wrist": [
+      0.6,
+      0.1
+    ],
+    "left_hip": [
+      0.4,
+      0.6
+    ],
+    "right_hip": [
+      0.6,
+      0.6
+    ],
+    "left_knee": [
+      0.4,
+      0.8
+    ],
+    "right_knee": [
+      0.6,
+      0.8
+    ],
+    "left_ankle": [
+      0.4,
+      1.0
+    ],
+    "right_ankle": [
+      0.6,
+      1.0
+    ]
+  },
+  "Utkatasana": {
+    "left_shoulder": [
+      0.4,
+      0.35
+    ],
+    "right_shoulder": [
+      0.6,
+      0.35
+    ],
+    "left_elbow": [
+      0.4,
+      0.45
+    ],
+    "right_elbow": [
+      0.6,
+      0.45
+    ],
+    "left_wrist": [
+      0.4,
+      0.55
+    ],
+    "right_wrist": [
+      0.6,
+      0.55
+    ],
+    "left_hip": [
+      0.4,
+      0.65
+    ],
+    "right_hip": [
+      0.6,
+      0.65
+    ],
+    "left_knee": [
+      0.4,
+      0.8
+    ],
+    "right_knee": [
+      0.6,
+      0.8
+    ],
+    "left_ankle": [
+      0.4,
+      0.95
+    ],
+    "right_ankle": [
+      0.6,
+      0.95
+    ]
+  },
+  "Utthita Trikonasana": {
+    "left_shoulder": [
+      0.35,
+      0.4
+    ],
+    "right_shoulder": [
+      0.65,
+      0.4
+    ],
+    "left_elbow": [
+      0.3,
+      0.5
+    ],
+    "right_elbow": [
+      0.7,
+      0.5
+    ],
+    "left_wrist": [
+      0.25,
+      0.6
+    ],
+    "right_wrist": [
+      0.75,
+      0.6
+    ],
+    "left_hip": [
+      0.4,
+      0.65
+    ],
+    "right_hip": [
+      0.6,
+      0.65
+    ],
+    "left_knee": [
+      0.4,
+      0.8
+    ],
+    "right_knee": [
+      0.6,
+      0.8
+    ],
+    "left_ankle": [
+      0.4,
+      0.95
+    ],
+    "right_ankle": [
+      0.6,
+      0.95
+    ]
+  },
+  "Vajrasana": {
+    "left_shoulder": [
+      0.45,
+      0.4
+    ],
+    "right_shoulder": [
+      0.55,
+      0.4
+    ],
+    "left_elbow": [
+      0.45,
+      0.55
+    ],
+    "right_elbow": [
+      0.55,
+      0.55
+    ],
+    "left_wrist": [
+      0.45,
+      0.65
+    ],
+    "right_wrist": [
+      0.55,
+      0.65
+    ],
+    "left_hip": [
+      0.45,
+      0.75
+    ],
+    "right_hip": [
+      0.55,
+      0.75
+    ],
+    "left_knee": [
+      0.45,
+      0.85
+    ],
+    "right_knee": [
+      0.55,
+      0.85
+    ],
+    "left_ankle": [
+      0.45,
+      0.95
+    ],
+    "right_ankle": [
+      0.55,
+      0.95
+    ]
+  },
+  "Vrksasana": {
+    "left_shoulder": [
+      0.45,
+      0.35
+    ],
+    "right_shoulder": [
+      0.55,
+      0.35
+    ],
+    "left_elbow": [
+      0.45,
+      0.25
+    ],
+    "right_elbow": [
+      0.55,
+      0.25
+    ],
+    "left_wrist": [
+      0.45,
+      0.15
+    ],
+    "right_wrist": [
+      0.55,
+      0.15
+    ],
+    "left_hip": [
+      0.45,
+      0.6
+    ],
+    "right_hip": [
+      0.55,
+      0.6
+    ],
+    "left_knee": [
+      0.45,
+      0.8
+    ],
+    "right_knee": [
+      0.55,
+      0.7
+    ],
+    "left_ankle": [
+      0.45,
+      0.95
+    ],
+    "right_ankle": [
+      0.5,
+      0.65
+    ]
+  },
+  "Ardha Kapotasana": {
+    "left_shoulder": [
+      0.4,
+      0.4
+    ],
+    "right_shoulder": [
+      0.6,
+      0.4
+    ],
+    "left_elbow": [
+      0.35,
+      0.5
+    ],
+    "right_elbow": [
+      0.65,
+      0.5
+    ],
+    "left_wrist": [
+      0.3,
+      0.6
+    ],
+    "right_wrist": [
+      0.7,
+      0.6
+    ],
+    "left_hip": [
+      0.4,
+      0.75
+    ],
+    "right_hip": [
+      0.6,
+      0.75
+    ],
+    "left_knee": [
+      0.35,
+      0.85
+    ],
+    "right_knee": [
+      0.65,
+      0.85
+    ],
+    "left_ankle": [
+      0.3,
+      0.95
+    ],
+    "right_ankle": [
+      0.7,
+      0.95
+    ]
+  },
+  "Ashtanga Namaskara": {
+    "left_shoulder": [
+      0.45,
+      0.45
+    ],
+    "right_shoulder": [
+      0.55,
+      0.45
+    ],
+    "left_elbow": [
+      0.4,
+      0.55
+    ],
+    "right_elbow": [
+      0.6,
+      0.55
+    ],
+    "left_wrist": [
+      0.4,
+      0.65
+    ],
+    "right_wrist": [
+      0.6,
+      0.65
+    ],
+    "left_hip": [
+      0.45,
+      0.7
+    ],
+    "right_hip": [
+      0.55,
+      0.7
+    ],
+    "left_knee": [
+      0.45,
+      0.85
+    ],
+    "right_knee": [
+      0.55,
+      0.85
+    ],
+    "left_ankle": [
+      0.45,
+      0.95
+    ],
+    "right_ankle": [
+      0.55,
+      0.95
+    ]
+  },
+  "Bhujangasana": {
+    "nose": [
+      0.4633345603942871,
+      0.30551135540008545
+    ],
+    "left_eye_inner": [
+      0.48688825964927673,
+      0.23419184982776642
+    ],
+    "left_eye": [
+      0.5013503432273865,
+      0.23248551785945892
+    ],
+    "left_eye_outer": [
+      0.5125893950462341,
+      0.2313217967748642
+    ],
+    "right_eye_inner": [
+      0.43533381819725037,
+      0.23386800289154053
+    ],
+    "right_eye": [
+      0.41880589723587036,
+      0.23171815276145935
+    ],
+    "right_eye_outer": [
+      0.4043256640434265,
+      0.2299509197473526
+    ],
+    "left_ear": [
+      0.5256950855255127,
+      0.23961091041564941
+    ],
+    "right_ear": [
+      0.37367600202560425,
+      0.2418808788061142
+    ],
+    "mouth_left": [
+      0.4837644100189209,
+      0.36989495158195496
+    ],
+    "mouth_right": [
+      0.43523970246315,
+      0.369619756937027
+    ],
+    "left_shoulder": [
+      0.5820209980010986,
+      0.4177650809288025
+    ],
+    "right_shoulder": [
+      0.26319557428359985,
+      0.5154948234558105
+    ],
+    "left_elbow": [
+      0.7175768613815308,
+      0.7478898763656616
+    ],
+    "right_elbow": [
+      0.15262830257415771,
+      0.9984223246574402
+    ],
+    "left_wrist": [
+      0.8200974464416504,
+      1.0862704515457153
+    ],
+    "right_wrist": [
+      0.1308656632900238,
+      1.3813295364379883
+    ],
+    "left_pinky": [
+      0.8682592511177063,
+      1.1763697862625122
+    ],
+    "right_pinky": [
+      0.11106691509485245,
+      1.4802314043045044
+    ],
+    "left_index": [
+      0.8396779298782349,
+      1.181733250617981
+    ],
+    "right_index": [
+      0.1528177261352539,
+      1.461066484451294
+    ],
+    "left_thumb": [
+      0.8053663372993469,
+      1.1736470460891724
+    ],
+    "right_thumb": [
+      0.17148227989673615,
+      1.4315952062606812
+    ],
+    "left_hip": [
+      0.49892139434814453,
+      0.8766588568687439
+    ],
+    "right_hip": [
+      0.32929155230522156,
+      0.9442465305328369
+    ],
+    "left_knee": [
+      0.6820463538169861,
+      0.8297315239906311
+    ],
+    "right_knee": [
+      0.3587638735771179,
+      1.2667381763458252
+    ],
+    "left_ankle": [
+      0.6613287329673767,
+      1.2929620742797852
+    ],
+    "right_ankle": [
+      0.5320571660995483,
+      1.3304169178009033
+    ],
+    "left_heel": [
+      0.6365711092948914,
+      1.3611222505569458
+    ],
+    "right_heel": [
+      0.5624915361404419,
+      1.3248426914215088
+    ],
+    "left_foot_index": [
+      0.7176953554153442,
+      1.4689068794250488
+    ],
+    "right_foot_index": [
+      0.6182584762573242,
+      1.405583381652832
+    ]
+  },
+  "Chaturanga Dandasana": {
+    "left_shoulder": [
+      0.45,
+      0.5
+    ],
+    "right_shoulder": [
+      0.55,
+      0.5
+    ],
+    "left_elbow": [
+      0.42,
+      0.55
+    ],
+    "right_elbow": [
+      0.58,
+      0.55
+    ],
+    "left_wrist": [
+      0.42,
+      0.6
+    ],
+    "right_wrist": [
+      0.58,
+      0.6
+    ],
+    "left_hip": [
+      0.45,
+      0.65
+    ],
+    "right_hip": [
+      0.55,
+      0.65
+    ],
+    "left_knee": [
+      0.45,
+      0.8
+    ],
+    "right_knee": [
+      0.55,
+      0.8
+    ],
+    "left_ankle": [
+      0.45,
+      0.95
+    ],
+    "right_ankle": [
+      0.55,
+      0.95
+    ]
+  },
+  "Dhanurasana": {
+    "left_shoulder": [
+      0.4,
+      0.35
+    ],
+    "right_shoulder": [
+      0.6,
+      0.35
+    ],
+    "left_elbow": [
+      0.35,
+      0.45
+    ],
+    "right_elbow": [
+      0.65,
+      0.45
+    ],
+    "left_wrist": [
+      0.35,
+      0.6
+    ],
+    "right_wrist": [
+      0.65,
+      0.6
+    ],
+    "left_hip": [
+      0.4,
+      0.7
+    ],
+    "right_hip": [
+      0.6,
+      0.7
+    ],
+    "left_knee": [
+      0.35,
+      0.85
+    ],
+    "right_knee": [
+      0.65,
+      0.85
+    ],
+    "left_ankle": [
+      0.35,
+      0.95
+    ],
+    "right_ankle": [
+      0.65,
+      0.95
+    ]
+  },
+  "Krounchasana": {
+    "left_shoulder": [
+      0.45,
+      0.35
+    ],
+    "right_shoulder": [
+      0.55,
+      0.35
+    ],
+    "left_elbow": [
+      0.42,
+      0.45
+    ],
+    "right_elbow": [
+      0.58,
+      0.45
+    ],
+    "left_wrist": [
+      0.42,
+      0.55
+    ],
+    "right_wrist": [
+      0.58,
+      0.55
+    ],
+    "left_hip": [
+      0.45,
+      0.65
+    ],
+    "right_hip": [
+      0.55,
+      0.65
+    ],
+    "left_knee": [
+      0.45,
+      0.75
+    ],
+    "right_knee": [
+      0.55,
+      0.75
+    ],
+    "left_ankle": [
+      0.45,
+      0.95
+    ],
+    "right_ankle": [
+      0.55,
+      0.95
+    ]
+  },
+  "Padmasana": {
+    "left_shoulder": [
+      0.45,
+      0.4
+    ],
+    "right_shoulder": [
+      0.55,
+      0.4
+    ],
+    "left_elbow": [
+      0.45,
+      0.55
+    ],
+    "right_elbow": [
+      0.55,
+      0.55
+    ],
+    "left_wrist": [
+      0.45,
+      0.65
+    ],
+    "right_wrist": [
+      0.55,
+      0.65
+    ],
+    "left_hip": [
+      0.45,
+      0.75
+    ],
+    "right_hip": [
+      0.55,
+      0.75
+    ],
+    "left_knee": [
+      0.4,
+      0.85
+    ],
+    "right_knee": [
+      0.6,
+      0.85
+    ],
+    "left_ankle": [
+      0.4,
+      0.95
+    ],
+    "right_ankle": [
+      0.6,
+      0.95
+    ]
+  },
+  "Salamba Sirsasana": {
+    "left_shoulder": [
+      0.45,
+      0.3
+    ],
+    "right_shoulder": [
+      0.55,
+      0.3
+    ],
+    "left_elbow": [
+      0.4,
+      0.4
+    ],
+    "right_elbow": [
+      0.6,
+      0.4
+    ],
+    "left_wrist": [
+      0.4,
+      0.5
+    ],
+    "right_wrist": [
+      0.6,
+      0.5
+    ],
+    "left_hip": [
+      0.45,
+      0.7
+    ],
+    "right_hip": [
+      0.55,
+      0.7
+    ],
+    "left_knee": [
+      0.45,
+      0.85
+    ],
+    "right_knee": [
+      0.55,
+      0.85
+    ],
+    "left_ankle": [
+      0.45,
+      0.95
+    ],
+    "right_ankle": [
+      0.55,
+      0.95
+    ]
+  },
+  "Ustrasana": {
+    "left_shoulder": [
+      0.45,
+      0.35
+    ],
+    "right_shoulder": [
+      0.55,
+      0.35
+    ],
+    "left_elbow": [
+      0.4,
+      0.45
+    ],
+    "right_elbow": [
+      0.6,
+      0.45
+    ],
+    "left_wrist": [
+      0.4,
+      0.6
+    ],
+    "right_wrist": [
+      0.6,
+      0.6
+    ],
+    "left_hip": [
+      0.45,
+      0.75
+    ],
+    "right_hip": [
+      0.55,
+      0.75
+    ],
+    "left_knee": [
+      0.45,
+      0.9
+    ],
+    "right_knee": [
+      0.55,
+      0.9
+    ],
+    "left_ankle": [
+      0.45,
+      0.95
+    ],
+    "right_ankle": [
+      0.55,
+      0.95
+    ]
+  },
+  "Ardha Baddha Padmottanasana": {
+    "left_shoulder": [
+      0.45,
+      0.35
+    ],
+    "right_shoulder": [
+      0.55,
+      0.35
+    ],
+    "left_elbow": [
+      0.4,
+      0.45
+    ],
+    "right_elbow": [
+      0.6,
+      0.45
+    ],
+    "left_wrist": [
+      0.4,
+      0.6
+    ],
+    "right_wrist": [
+      0.6,
+      0.6
+    ],
+    "left_hip": [
+      0.45,
+      0.7
+    ],
+    "right_hip": [
+      0.55,
+      0.7
+    ],
+    "left_knee": [
+      0.4,
+      0.85
+    ],
+    "right_knee": [
+      0.6,
+      0.85
+    ],
+    "left_ankle": [
+      0.4,
+      0.95
+    ],
+    "right_ankle": [
+      0.6,
+      0.95
+    ]
+  },
+  "Baddha Padmasana": {
+    "left_shoulder": [
+      0.45,
+      0.4
+    ],
+    "right_shoulder": [
+      0.55,
+      0.4
+    ],
+    "left_elbow": [
+      0.43,
+      0.55
+    ],
+    "right_elbow": [
+      0.57,
+      0.55
+    ],
+    "left_wrist": [
+      0.43,
+      0.65
+    ],
+    "right_wrist": [
+      0.57,
+      0.65
+    ],
+    "left_hip": [
+      0.45,
+      0.75
+    ],
+    "right_hip": [
+      0.55,
+      0.75
+    ],
+    "left_knee": [
+      0.4,
+      0.85
+    ],
+    "right_knee": [
+      0.6,
+      0.85
+    ],
+    "left_ankle": [
+      0.4,
+      0.95
+    ],
+    "right_ankle": [
+      0.6,
+      0.95
+    ]
+  },
+  "Eka Pada Rajakapotasana": {
+    "left_shoulder": [
+      0.42,
+      0.35
+    ],
+    "right_shoulder": [
+      0.58,
+      0.35
+    ],
+    "left_elbow": [
+      0.37,
+      0.45
+    ],
+    "right_elbow": [
+      0.63,
+      0.45
+    ],
+    "left_wrist": [
+      0.37,
+      0.6
+    ],
+    "right_wrist": [
+      0.63,
+      0.6
+    ],
+    "left_hip": [
+      0.45,
+      0.7
+    ],
+    "right_hip": [
+      0.55,
+      0.7
+    ],
+    "left_knee": [
+      0.4,
+      0.85
+    ],
+    "right_knee": [
+      0.6,
+      0.85
+    ],
+    "left_ankle": [
+      0.4,
+      0.95
+    ],
+    "right_ankle": [
+      0.6,
+      0.95
+    ]
+  },
+  "Hanumanasana": {
+    "left_shoulder": [
+      0.45,
+      0.4
+    ],
+    "right_shoulder": [
+      0.55,
+      0.4
+    ],
+    "left_elbow": [
+      0.4,
+      0.5
+    ],
+    "right_elbow": [
+      0.6,
+      0.5
+    ],
+    "left_wrist": [
+      0.4,
+      0.6
+    ],
+    "right_wrist": [
+      0.6,
+      0.6
+    ],
+    "left_hip": [
+      0.4,
+      0.75
+    ],
+    "right_hip": [
+      0.6,
+      0.75
+    ],
+    "left_knee": [
+      0.35,
+      0.9
+    ],
+    "right_knee": [
+      0.65,
+      0.9
+    ],
+    "left_ankle": [
+      0.3,
+      0.95
+    ],
+    "right_ankle": [
+      0.7,
+      0.95
+    ]
+  },
+  "Padma Mayurasana": {
+    "left_shoulder": [
+      0.45,
+      0.35
+    ],
+    "right_shoulder": [
+      0.55,
+      0.35
+    ],
+    "left_elbow": [
+      0.42,
+      0.45
+    ],
+    "right_elbow": [
+      0.58,
+      0.45
+    ],
+    "left_wrist": [
+      0.42,
+      0.55
+    ],
+    "right_wrist": [
+      0.58,
+      0.55
+    ],
+    "left_hip": [
+      0.45,
+      0.65
+    ],
+    "right_hip": [
+      0.55,
+      0.65
+    ],
+    "left_knee": [
+      0.45,
+      0.8
+    ],
+    "right_knee": [
+      0.55,
+      0.8
+    ],
+    "left_ankle": [
+      0.45,
+      0.95
+    ],
+    "right_ankle": [
+      0.55,
+      0.95
+    ]
+  },
+  "Padma Sarvangasana": {
+    "left_shoulder": [
+      0.45,
+      0.3
+    ],
+    "right_shoulder": [
+      0.55,
+      0.3
+    ],
+    "left_elbow": [
+      0.42,
+      0.4
+    ],
+    "right_elbow": [
+      0.58,
+      0.4
+    ],
+    "left_wrist": [
+      0.42,
+      0.5
+    ],
+    "right_wrist": [
+      0.58,
+      0.5
+    ],
+    "left_hip": [
+      0.45,
+      0.7
+    ],
+    "right_hip": [
+      0.55,
+      0.7
+    ],
+    "left_knee": [
+      0.45,
+      0.85
+    ],
+    "right_knee": [
+      0.55,
+      0.85
+    ],
+    "left_ankle": [
+      0.45,
+      0.95
+    ],
+    "right_ankle": [
+      0.55,
+      0.95
+    ]
+  },
+  "Upavistha Konasana": {
+    "left_shoulder": [
+      0.4,
+      0.35
+    ],
+    "right_shoulder": [
+      0.6,
+      0.35
+    ],
+    "left_elbow": [
+      0.35,
+      0.45
+    ],
+    "right_elbow": [
+      0.65,
+      0.45
+    ],
+    "left_wrist": [
+      0.35,
+      0.6
+    ],
+    "right_wrist": [
+      0.65,
+      0.6
+    ],
+    "left_hip": [
+      0.4,
+      0.7
+    ],
+    "right_hip": [
+      0.6,
+      0.7
+    ],
+    "left_knee": [
+      0.3,
+      0.85
+    ],
+    "right_knee": [
+      0.7,
+      0.85
+    ],
+    "left_ankle": [
+      0.25,
+      0.95
+    ],
+    "right_ankle": [
+      0.75,
+      0.95
+    ]
+  },
+  "Urdhva Dandasana": {
+    "left_shoulder": [
+      0.45,
+      0.3
+    ],
+    "right_shoulder": [
+      0.55,
+      0.3
+    ],
+    "left_elbow": [
+      0.42,
+      0.4
+    ],
+    "right_elbow": [
+      0.58,
+      0.4
+    ],
+    "left_wrist": [
+      0.42,
+      0.5
+    ],
+    "right_wrist": [
+      0.58,
+      0.5
+    ],
+    "left_hip": [
+      0.45,
+      0.7
+    ],
+    "right_hip": [
+      0.55,
+      0.7
+    ],
+    "left_knee": [
+      0.45,
+      0.85
+    ],
+    "right_knee": [
+      0.55,
+      0.85
+    ],
+    "left_ankle": [
+      0.45,
+      0.95
+    ],
+    "right_ankle": [
+      0.55,
+      0.95
+    ]
+  },
+  "Urdhva Dhanurasana": {
+    "left_shoulder": [
+      0.45,
+      0.35
+    ],
+    "right_shoulder": [
+      0.55,
+      0.35
+    ],
+    "left_elbow": [
+      0.4,
+      0.45
+    ],
+    "right_elbow": [
+      0.6,
+      0.45
+    ],
+    "left_wrist": [
+      0.4,
+      0.6
+    ],
+    "right_wrist": [
+      0.6,
+      0.6
+    ],
+    "left_hip": [
+      0.45,
+      0.75
+    ],
+    "right_hip": [
+      0.55,
+      0.75
+    ],
+    "left_knee": [
+      0.4,
+      0.85
+    ],
+    "right_knee": [
+      0.6,
+      0.85
+    ],
+    "left_ankle": [
+      0.4,
+      0.95
+    ],
+    "right_ankle": [
+      0.6,
+      0.95
+    ]
+  }
+}
